@@ -338,11 +338,11 @@ http://111.48.34.237/PLTV/88888888/224/3221230390/1.m3u8
 #EXTINF:-1 tvg-name="武汉教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Wuhan8.png" group-title="湖北频道",武汉教育
 http://111.48.34.237/PLTV/88888888/224/3221229783/1.m3u8
 
-#EXTINF:-1 tvg-name="荆州新闻" tvg-logo="" group-title="地方频道",荆州新闻
+#EXTINF:-1 tvg-name="荆州新闻综合" tvg-logo="" group-title="地方频道",荆州新闻综合
 http://111.48.34.237/PLTV/88888888/224/3221229763/1.m3u8
 #EXTINF:-1 tvg-name="恩施文旅" tvg-logo="" group-title="地方频道",恩施文旅
 http://111.48.34.237/PLTV/88888888/224/3221230344/1.m3u8
-#EXTINF:-1 tvg-name="孝感新闻综合" tvg-logo="" group-title="地方频道",孝感新闻综合
+#EXTINF:-1 tvg-name="孝感生活" tvg-logo="" group-title="地方频道",孝感生活
 http://111.48.34.237/PLTV/88888888/224/3221230534/1.m3u8
 #EXTINF:-1 tvg-name="黄石新闻综合" tvg-logo="" group-title="地方频道",黄石新闻综合
 http://111.48.34.237/PLTV/88888888/224/3221230556/1.m3u8
@@ -364,7 +364,7 @@ http://111.48.34.237/PLTV/88888888/224/3221230568/1.m3u8
 http://111.48.34.237/PLTV/88888888/224/3221230572/1.m3u8
 #EXTINF:-1 tvg-name="荆门新闻综合" tvg-logo="" group-title="地方频道",荆门新闻综合
 http://111.48.34.237/PLTV/88888888/224/3221230574/1.m3u8
-#EXTINF:-1 tvg-name="宜昌综合频道" tvg-logo="" group-title="地方频道",宜昌综合频道
+#EXTINF:-1 tvg-name="宜昌综合" tvg-logo="" group-title="地方频道",宜昌综合
 http://111.48.34.237/PLTV/88888888/224/3221230587/1.m3u8
 #EXTINF:-1 tvg-name="宜昌旅游生活" tvg-logo="" group-title="地方频道",宜昌旅游生活
 http://111.48.34.237/PLTV/88888888/224/3221230589/1.m3u8
