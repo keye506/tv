@@ -320,13 +320,13 @@ http://111.48.34.237/PLTV/88888888/224/3221230582/1.m3u8
 #EXTINF:-1 tvg-name="湖北综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hubei1.png" group-title="湖北频道",湖北综合
 http://111.48.34.237/PLTV/88888888/224/3221229806/1.m3u8
 http://111.48.34.237/PLTV/88888888/224/3221230439/1.m3u8
-#EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hubei6.png" group-title="湖北频道",湖北经视
+#EXTINF:-1 tvg-name="湖北经济" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hubei6.png" group-title="湖北频道",湖北经视
 http://111.48.34.237/PLTV/88888888/224/3221229804/1.m3u8
 http://111.48.34.237/PLTV/88888888/224/3221230388/1.m3u8
-#EXTINF:-1 tvg-name="湖北公共" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hubei5.png" group-title="湖北频道",湖北公共
+#EXTINF:-1 tvg-name="湖北公共·新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hubei5.png" group-title="湖北频道",湖北公共·新闻
 http://111.48.34.237/PLTV/88888888/224/3221229800/1.m3u8
 http://111.48.34.237/PLTV/88888888/224/3221230441/1.m3u8
-#EXTINF:-1 tvg-name="湖北影视" tvg-logo="https://gongdian.top/logo/tv/湖北影视.png" group-title="湖北频道",湖北影视
+#EXTINF:-1 tvg-name="湖北影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hubei2.png" group-title="湖北频道",湖北影视
 http://111.48.34.237/PLTV/88888888/224/3221230404/1.m3u8
 #EXTINF:-1 tvg-name="湖北教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hubei3.png" group-title="湖北频道",湖北教育
 http://111.48.34.237/PLTV/88888888/224/3221230406/1.m3u8
