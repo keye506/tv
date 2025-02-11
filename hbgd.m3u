@@ -218,7 +218,7 @@ rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000291
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000293
 #EXTINF:-1 tvg-name="梨园" tvg-logo="https://gongdian.top/logo/tv/河南梨园.png" group-title="数字频道",梨园频道
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000301
-#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://gongdian.top/logo/tv/四海钓鱼.png" group-title="体验频道",四海钓鱼
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://gongdian.top/logo/tv/四海钓鱼.png" group-title="数字频道",四海钓鱼
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000531
 #EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://gongdian.top/logo/tv/环球奇观.png" group-title="数字频道",环球奇观
 rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000282
