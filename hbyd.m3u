@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://epg.cdn.loc.cc/xml/" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://111.48.34.237/000000001001PLTV/88888888/224/3221229665/1.m3u8
@@ -401,3 +401,4 @@ http://111.48.34.237/000000001001PLTV/88888888/224/3221230496/1.m3u8
 http://111.48.34.237/000000001001PLTV/88888888/224/3221230547/1.m3u8
 #EXTINF:-1 tvg-name="武术世界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/武术世界.png" group-title="体验频道",武术世界
 http://111.48.34.237/000000001001PLTV/88888888/224/3221230549/1.m3u8
+
