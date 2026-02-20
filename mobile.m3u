@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.cdn.loc.cc/xml/" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="http://e.erw.cc/allcc.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://111.48.34.138/000000001000PLTV/88888888/224/3221229665/1.m3u8
